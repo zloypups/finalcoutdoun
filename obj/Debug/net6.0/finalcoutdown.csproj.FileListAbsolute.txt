@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\final_task\finalcoutdown\bin\Debug\net6.0\finalcoutdown.exe
+C:\Users\Lex\Desktop\final_task\finalcoutdown\bin\Debug\net6.0\finalcoutdown.deps.json
+C:\Users\Lex\Desktop\final_task\finalcoutdown\bin\Debug\net6.0\finalcoutdown.runtimeconfig.json
+C:\Users\Lex\Desktop\final_task\finalcoutdown\bin\Debug\net6.0\finalcoutdown.dll
+C:\Users\Lex\Desktop\final_task\finalcoutdown\bin\Debug\net6.0\finalcoutdown.pdb
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.AssemblyInfo.cs
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.dll
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\refint\finalcoutdown.dll
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.pdb
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\finalcoutdown.genruntimeconfig.cache
+C:\Users\Lex\Desktop\final_task\finalcoutdown\obj\Debug\net6.0\ref\finalcoutdown.dll
